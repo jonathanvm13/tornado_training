@@ -1,0 +1,4 @@
+/app.egg-info
+/.idea
+/.coverage
+*.pyc
