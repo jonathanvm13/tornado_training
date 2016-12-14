@@ -1,13 +1,16 @@
 Installation
 --------------------------
-
+```
 $ python setup.py develop
+```
 
 Running
 --------------------------
 
+```
 $ cd app
 $ python server.py
+```
 
 Testing
 --------------------------
